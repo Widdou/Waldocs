@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@livingdesign/bogle": "^0.1.32",
+    "@livingdesign/icons": "^0.4.51",
     "@types/node": "20.12.7",
     "@types/react": "18.3.1",
     "@types/react-dom": "18.3.0",
+    "@walmart-web/livingdesign-components": "^1.0.38",
     "autoprefixer": "10.4.19",
     "eslint": "8.57.0",
     "eslint-config-next": "14.2.3",
